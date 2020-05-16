@@ -1,2 +1,3 @@
 # MySQLWeek1
-Creating a MySQL database using employees.
+
+# Created a MySQL database using employees numbers, birth date, first name, last name, gender and their hire date.
